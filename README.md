@@ -2,6 +2,8 @@
 
 Name: Modi (Victor) Li
 
+[Loop Video](https://www.loom.com/share/cbf0ad1651b34eeb97f1d63a80b55447)
+
 Note: Enter your OpenAI API key in [Secrets.swift](Taya-Prototype-Victor/Taya-Prototype-Victor/Secrets.swift) before running the app.
 
 ## Storage: SwiftData
